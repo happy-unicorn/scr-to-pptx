@@ -1,0 +1,5 @@
+numpy==1.17.2
+PyAutoGUI==0.9.52
+mss==6.1.0
+opencv-python==4.5.1.48
+python-pptx==0.6.18
